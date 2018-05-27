@@ -1,0 +1,23 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "student_id": 101,
+  "email": "john@testemail.com",
+  "courses":[
+    {
+      "course_id": 20,
+      "course_name": "Chemistry"
+    },
+    {
+      "course_id": 21,
+      "course_name": "Maths"
+    },
+    {
+      "course_id": 22,
+      "course_name": "Biology"
+    },
+    {
+      "course_id": 23,
+      "course_name": "Social Studies"
+    }]
+}
